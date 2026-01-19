@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f46a8e05c696dc8409681bd0b75fbd22
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240479
+  packageName: BrickTown Assetpack
+  packageVersion: 1.1
+  assetPath: Assets/Assets/Bricktown/materials/Building.shadergraph
+  uploadId: 554652
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {instanceID: 0}
